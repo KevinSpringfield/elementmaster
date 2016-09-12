@@ -6,3 +6,6 @@ I am trying to build a card game like my favorite mobile game Puzzle & Dragon bu
 and a screenshot is attached below.
 
 In this version I complete the graphic interface and how cards appear and disappear.
+
+screenshot:
+![image](https://github.com/KevinSpringfield/elementmaster/blob/master/image/screenshot.png)
